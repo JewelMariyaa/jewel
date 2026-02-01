@@ -1,2 +1,5 @@
-# jewel
-my first program ..yeah just swapping in python..(basic)
+number1 = int(input("enter 3 values "))
+number2 = int(input())
+number3 = int(input())
+average = (number1+number2+number3)/3
+print ("the average is = "+str(average))
